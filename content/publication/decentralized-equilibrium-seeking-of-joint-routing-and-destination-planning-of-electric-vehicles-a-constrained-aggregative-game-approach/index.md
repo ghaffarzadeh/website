@@ -39,6 +39,7 @@ tags:
   - Decentralized Algorithm
   - Electric Vehicles
   - Nash Equilibrium
+  - Monotone Games
 categories:
   - Models of Competition in Intelligent Transportation Networks
 projects:
