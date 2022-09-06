@@ -17,6 +17,7 @@ tags:
   - Electric Vehicles
   - Wardrop Equilibrium
   - Power Distribution Network
+  - Monotone Games
 categories:
   - Models of Competition in Intelligent Transportation Networks
 projects:
