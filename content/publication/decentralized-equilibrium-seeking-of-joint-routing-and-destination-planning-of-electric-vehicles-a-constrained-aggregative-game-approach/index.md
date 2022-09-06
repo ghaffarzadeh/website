@@ -1,7 +1,6 @@
 ---
-title: "Decentralized Equilibrium Seeking of Joint Routing and
-  Destination   Planning of Electric Vehicles: A Constrained Aggregative Game
-  Approach"
+title: "Decentralized Equilibrium Seeking of Joint Routing and Destination
+  Planning of Electric Vehicles: A Constrained Aggregative Game Approach"
 publication_types:
   - "2"
 authors:
